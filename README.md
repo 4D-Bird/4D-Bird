@@ -1,8 +1,25 @@
+<!--
 ![Header](./branding/4d_bird_banner_2048px.png)
 
 **Hey there!** Welcome to **4D Bird** - I'm glad you found this page!
+-->
 
----
+<img align="right" width="650" src="./branding/4d_bird_banner_2048px.png" />
+<br>
+<!-- Crazy hack to get around GitHub's strict markdown limitations. Credit: https://stackoverflow.com/a/78845294 -->
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>Hey there!</h2>
+    </summary>
+  </ul>
+</div>
+
+Welcome to **4D Bird** - 
+
+I'm glad you found this page!
+
+<br>
 
 ## 👤 Who I am
 
@@ -14,7 +31,6 @@ An **independent programmer**, I use GitHub for both public as well as private p
 
 Expect, for the most part, **various technical projects**, like science-based games, simulations, or tools to appear on this profile.
 
-
 ## ⚙️ What I Can Do
 
 My most *specific* skills undoubtedly lie in <ins>**C#/.NET**</ins> and **Unity Engine**, with additional experience in **Java**, **Python**, and **JavaScript**.
@@ -22,7 +38,6 @@ My most *specific* skills undoubtedly lie in <ins>**C#/.NET**</ins> and **Unity 
 More than any single language or framework, though, I excel at *general problem solving* - I adapt to new tools and environments quickly, and more broadly, I solve challenges using out-of-the-box thinking, and am not afraid of using non-standard solutions!
 
 One of my biggest strengths is the ability to see and think about large, complex systems as a whole, allowing me to see connections between apparently unrelated components. In other words: Abstract thinking and pattern recognition.
-
 
 ## 🎵 Beyond Hard Science
 
@@ -36,7 +51,6 @@ Beyond science and programming, I also often immerse myself in plenty of other a
 * I have a modest understanding of music theory - questionable piano skills included. I also like microtonal music.
 
 And various other minor side-hobbies, of which there are too many to mention.
-
 
 ## 📬 Contact
 
