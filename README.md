@@ -1,8 +1,6 @@
-![Header](./4d_bird_banner_2048px.png)
+![Header](./branding/4d_bird_banner_2048px.png)
 
-### Hey there!
-
-Welcome to **4D Bird** - I'm glad you found this page!
+**Hey there!** Welcome to **4D Bird** - I'm glad you found this page!
 
 ---
 
